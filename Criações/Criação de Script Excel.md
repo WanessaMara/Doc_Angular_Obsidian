@@ -1,6 +1,8 @@
 - Criação de um service para receber uma imagem convertida em Base64 (transferindo de binário para string) para o script do Excel conseguir receber a imagem no arquivo
 	- Após gerar o componente, add no module do componente pai,
 
+![](imagens/Captura de tela de 2025-08-25 16-51-46.png)
+
 ![[Captura de tela de 2025-08-25 16-51-46.png]]
 
 - Todo o componente foi criado com formatação especifica para linhas e colunas,  recebendo os Pipes para o array dos dados apresentados da página.
